@@ -1,7 +1,6 @@
 import React, { Component } from "react";
-import items from "./data";
+// import items from "./data";
 import Client from "./Contentful";
-import { async } from "q";
 
 // Client.getEntries({ content_type: "beachResortExample" }).then(reponse =>
 //   console.log(reponse.items)
